@@ -1,2 +1,2 @@
-# Protype Real estate app built with react-redux, python django, postgresql
+# Demo Real estate app built with react-redux, python django, postgresql
 
