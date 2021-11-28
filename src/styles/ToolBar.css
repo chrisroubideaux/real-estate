@@ -1,0 +1,35 @@
+.toolbar {
+  font-size: 1.5rem;
+  color: whitesmoke;
+  padding-top: 1.5rem;
+}
+ 
+.nav-link {
+  color: #ff6060;
+  font-size:30px;
+}
+  
+.nav-item {
+  padding-top: .8rem;
+  color: antiquewhite;   
+}
+    
+li a {
+  color: whitesmoke;
+  font-size: 1.5rem;
+}
+
+/* buttons */
+.tab {
+  color: #ff6060;
+  border-radius: 30px;
+}
+    
+.tab:hover {
+  transform: scale(1.07); 
+}
+
+.tab-icon {
+  color: #ff6060;
+  font-size: 30px;
+}

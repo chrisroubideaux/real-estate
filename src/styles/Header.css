@@ -1,0 +1,81 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; 
+  font-family: 'Teko', sans-serif;
+}
+
+/*nav*/
+.navbar  {
+  font-size: 1.5rem;
+  letter-spacing: .1rem;
+  color: whitesmoke;
+  padding-top: .8rem;
+  box-shadow: .1rem .1rem .8rem #949393;  
+}
+  
+.nav-link {
+  color:#f93333; 
+  font-size:30px;
+}
+
+.nav-item {
+  padding-top: .8rem;
+  color: antiquewhite;   
+}
+  
+li a {
+  color:#f93333; 
+  font-size: 1.5rem;
+}
+  
+.nav-item:hover {
+  color:#fc6c59;
+}
+ 
+.nav-link:hover {
+  color:#fc6c59;
+}
+
+.form-control {
+  border-radius: 30px;
+  width: 300px;
+}
+
+.dropdown-menu {
+  background-size: cover;
+  background-color:#f93333;
+  width: 340px;
+  transition: bottom .75s ease-in-out;
+  border-radius: 10px;
+}
+
+.dropdown-item {
+  width: 340px;
+  transition: bottom .75s ease-in-out; 
+  padding-top: .8rem;
+  color: antiquewhite;   
+}
+
+h4 {
+  font-size:30px; 
+}
+
+.avatar {
+  background-color: grey;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(182, 224, 224);
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.social-icon {
+  font-size: 30px;
+  color: #ff6060;
+} 

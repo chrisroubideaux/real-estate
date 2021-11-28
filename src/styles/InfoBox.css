@@ -1,0 +1,7 @@
+.info-box {
+  background-size: cover;
+  background-color:#f93333;
+  width: 340px;
+  transition: bottom .75s ease-in-out;
+  border-radius: 10px;   
+}

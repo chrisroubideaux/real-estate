@@ -1,0 +1,58 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; 
+  font-family: 'Sigmar One', sans-serif;
+}
+
+.home {
+  height: 100vh;
+  background-color: #BD1616;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Sigmar One', sans-serif;
+  font-size: 50px;  
+}
+
+h1 {
+  font-family: 'Sigmar One', sans-serif;
+  font-size: 30px; 
+   color: bisque;
+}
+.par {
+  font-size: 20px;
+  color: bisque;
+}
+
+/* buttons */
+.btn {
+  background-color:#fdd7d7;
+  color: #ff6060;
+  border-radius: 30px;
+}
+  
+.btn:hover {
+  transform: scale(1.07); 
+}
+
+/* img */
+
+.img {
+  max-height: 70px;
+  width: 60%;
+  object-fit: contain;
+  margin-bottom: 15px;
+  border-style: none;  
+}
+  
+.img:hover {
+  transform: scale(1.07); 
+}
+
+.social-icon{
+  color: #ff6060;
+  font-size: 30px;
+}

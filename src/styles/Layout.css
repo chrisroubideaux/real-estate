@@ -1,0 +1,27 @@
+.layout {
+ background-color: #e2e1df;
+ background-size: cover;
+ background-attachment: fixed;
+ background-position: center;
+ font-size: 50px;  
+}
+
+h5 {
+  font-size: 20px;
+}
+
+.p {
+   font-size: 30px; 
+}
+
+/*-containers-*/
+.container {
+  width: 100%;
+}
+/*--footer--*/
+
+.footer {
+  background-size: cover;
+  height: 40vh;
+}
+  

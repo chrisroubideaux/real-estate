@@ -1,0 +1,24 @@
+.form-check-input {
+  font-size: 20px;
+}
+
+.form-check-label {
+  font-size: 20px;
+}
+
+.option {
+  font-size:20px
+}
+
+.btn-close {
+ font-size: 10px;
+}  
+.social-icon:hover {
+  transform: scale(1.07); 
+}
+
+@media (max-width: 767.98px) {
+  .sidebar {
+    top: 5rem;
+  }
+}
